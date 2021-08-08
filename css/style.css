@@ -1,0 +1,42 @@
+.link-item{
+   width:400px;
+   list-style: none;
+   margin-left: 200px;
+   
+}
+.photo{
+    width: 400px;
+    height: 500px;
+ 
+}
+.photo-item{
+    display: flex;
+  
+}
+
+.text{
+   text-align: center;
+   color: rgb(25, 225, 95);
+}
+.button{
+    height: 60px;
+    width: 165px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 15px solid rosybrown;
+}
+.last-knopka{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+.input{
+    margin-top: 100px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 150px;
+}
